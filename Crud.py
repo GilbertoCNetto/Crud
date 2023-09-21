@@ -8,7 +8,7 @@ conexao = mysql.connector.connect(
 )
 cursor = conexao.cursor()
 
-'''PARA USAR CADA UMA DAS FUNÇÕes, DESCOMENTE O RESPECTIVO BLOCO'''
+'''PARA USAR CADA UMA DAS FUNÇÕes, RETIRE DE COMENTÁRIO O RESPECTIVO BLOCO'''
 # #CREATE
 # login = "pedro"
 # senha = "12345"
